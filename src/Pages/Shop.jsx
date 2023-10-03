@@ -66,7 +66,7 @@ export default function Shop() {
 
 						{/* prod 1 */}
 						<div className="products">
-							<img src="images/2.jpg" alt="" />
+							<img src="images/31.png" alt="" />
 							
 							<div className="chair_typ">
 								<p>Type of chair</p>
