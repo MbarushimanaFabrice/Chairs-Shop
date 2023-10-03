@@ -18,15 +18,15 @@ const navigate=useNavigate()
 				  </div>
 				  <div className="prolists">
 					  <div className="imgs">
-						  <img src="first/chair1.jpg" alt="" />
+						  <img src="first/CHAIR 1.jpg" alt="" />
 					  </div>
 					  <div className="imgs">
-						  <img  src="first/chair3.jpg" alt="" />
+						  <img  src="first/CHAIR 3.jpg" alt="" />
 					  </div>
 				  </div>
 			  </div>
 			  <div className="fullpro">
-				  <img src="first/chair4.jpg" alt="" />
+				  <img src="first/CHAIR 4.jpg" alt="" />
 				  
 			  </div>
 		  </div>
